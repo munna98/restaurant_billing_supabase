@@ -1,0 +1,4 @@
+class SupabaseConfig {
+  static const String supabaseUrl = 'https://aaisxhnyeevfgqwuquuz.supabase.co';
+  static const String supabaseAnonKey = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFhaXN4aG55ZWV2Zmdxd3VxdXV6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTY4MzMxNzEsImV4cCI6MjA3MjQwOTE3MX0.qGpdS8IqoD6Wl9QthwM6bmZQ9PKUZBWiyS9bEXAf7Cc;
+}
